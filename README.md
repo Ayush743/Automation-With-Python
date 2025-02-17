@@ -2,7 +2,7 @@
 
 ## 📚 Course Details
 
-Embark on an exciting journey to master Python automation! This course will equip you with essential skills, including:
+Embark on an exciting journey to master Python automation! This course includes :
 
 ✅ **Web Scraping** – Extract and process online data like a pro.  
 ✅ **Video Processing** – Edit, analyze, and automate media files.  
